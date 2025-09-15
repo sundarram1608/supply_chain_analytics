@@ -33,10 +33,12 @@ The coding language used here is Python Programing.
     - pyplot<br>
     
   > statsmodels<br>
+  
     - stats.outliers_influence - variance_inflation_factor<br>
     - formula.api
   
   > sklearn<br>
+  
     - model_selection - train_test_split, GridSearchCV<br>
     - linear_model - LinearRegression<br>
     - tree - DecisionTreeRegressor, export_graphviz<br>
@@ -44,6 +46,7 @@ The coding language used here is Python Programing.
     - metrics - mean_absolute_error, mean_squared_error, explained_variance_score, r2_score<br>
 
   > scipy<br>
+  
     - stats - zscore<br>
 
 ## How to run the code?
