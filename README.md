@@ -32,7 +32,8 @@ The coding language used here is Python Programing.
   > matplotlib<br>
     - pyplot<br>
     
-  > statsmodels<br><br>
+  > statsmodels<br>
+  <br>
     - stats.outliers_influence - variance_inflation_factor<br>
     - formula.api
   
