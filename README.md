@@ -9,8 +9,7 @@ The coding language used here is Python Programing.
 - code_file.ipynb
 
 ## Business Report & Presentation: (.pdf)
-- - The submitted Business report helps the company wants in optimizing the supply quantity in each warehouse by determining the optimum weight of the product to be shipped each time to the warehouse.<br>
-- - Also, an analysis of demand pattern in different pockets of the country is presented to aid the company in targeted advertisement campaigning, therefore help boost sales and increase the bottom line.<br>
+- The submitted Business report helps the company wants in optimizing the supply quantity in each warehouse by determining the optimum weight of the product to be shipped each time to the warehouse. Also, an analysis of demand pattern in different pockets of the country is presented to aid the company in targeted advertisement campaigning, therefore help boost sales and increase the bottom line.<br>
 
 - The presentation outlines a detailed approach that was undertaken, covering the following aspects:<br>
 > > Data cleaning <br>
