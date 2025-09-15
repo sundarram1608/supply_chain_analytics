@@ -13,14 +13,14 @@ The coding language used here is Python Programing.
 
 - The presentation outlines a detailed approach that was undertaken, covering the following aspects:<br>
   > Data cleaning <br>
-
-> > Exploratory analysis & Impactful Visualizations <br>
-
-> > Feature transformation & selection<br>
-
-> > Model Building & Fine tuning <br>
-
-> > Model Evaluation & Business Recommendations
+  
+  > Exploratory analysis & Impactful Visualizations <br>
+  
+  > Feature transformation & selection<br>
+  
+  > Model Building & Fine tuning <br>
+  
+  > Model Evaluation & Business Recommendations
 
 ## Libraries used:
 > pandas<br>
