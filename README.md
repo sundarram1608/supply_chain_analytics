@@ -33,7 +33,6 @@ The coding language used here is Python Programing.
     - pyplot<br>
     
   > statsmodels<br>
-  <br>
     - stats.outliers_influence - variance_inflation_factor<br>
     - formula.api
   
@@ -45,7 +44,6 @@ The coding language used here is Python Programing.
     - metrics - mean_absolute_error, mean_squared_error, explained_variance_score, r2_score<br>
 
   > scipy<br>
-  
     - stats - zscore<br>
 
 ## How to run the code?
