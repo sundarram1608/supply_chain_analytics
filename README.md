@@ -30,7 +30,7 @@ The coding language used here is Python Programing.
   > seaborn<br>
 
   > matplotlib<br>
-    - pyplot<br>
+      - pyplot<br>
     
   > statsmodels<br>
     - stats.outliers_influence - variance_inflation_factor<br>
