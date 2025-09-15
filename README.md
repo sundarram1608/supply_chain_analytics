@@ -1,5 +1,5 @@
 # supply_chain_analytics
-This repository contains files used in building models for an instant noodles company, aiming to optimize supply chain quantities, analyze demand patterns across the country, and drive targeted advertising strategies to strengthen the bottom line.<br>
+This repository contains files used in building Machine Learning models for an instant noodles company, aiming to optimize supply chain quantities, analyze demand patterns across the country, and drive targeted advertising strategies to strengthen the bottom line.<br>
 The coding language used here is Python Programing.
 
 ## DataSet:
@@ -23,29 +23,28 @@ The coding language used here is Python Programing.
   > Model Evaluation & Business Recommendations
 
 ## Libraries used:
-> pandas<br>
+  > pandas<br>
 
-> numpy<br>
+  > numpy<br>
 
-> seaborn<br>
+  > seaborn<br>
 
-> matplotlib<br>
-> > - pyplot
+  > matplotlib<br>
+    - pyplot<br>
+    
+  > statsmodels<br>
+    - stats.outliers_influence - variance_inflation_factor<br>
+    - formula.api
+  
+  > sklearn<br>
+    - model_selection - train_test_split, GridSearchCV<br>
+    - linear_model - LinearRegression<br>
+    - tree - DecisionTreeRegressor, export_graphviz<br>
+    - ensemble - RandomForestRegressor, BaggingRegressor, AdaBoostRegressor, GradientBoostingRegressor<br>
+    - metrics - mean_absolute_error, mean_squared_error, explained_variance_score, r2_score<br>
 
-> pylab<br>
-> > - rcParams
-
-> statsmodels<br>
-> > - graphics.tsaplots - month_plot, plot_acf, plot_pacf <br>
-> > - tsa.seasonal - seasonal_decompose <br>
-> > - tsa.api - ExponentialSmoothing, SimpleExpSmoothing, Holt <br>
-> > - tsa.stattools - adfuller <br>
-> > - tsa.arima_model - ARIMA <br>
-> > - api
-
-> sklearn<br>
-> > - linear_model - LinearRegression<br>
-> > - metrics - mean_squared_error<br>
+  > scipy<br>
+    - stats - zscore<br>
 
 ## How to run the code?
 - Fork & Clone the repository
